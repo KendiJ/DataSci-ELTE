@@ -9,7 +9,7 @@ plt.plot(x, y)
 plt.xlabel('x-lable')
 plt.ylabel('y-lable')
 plt.show()
-plt.savefig('01_img.png')
+# plt.savefig('01_img.png')
 
 y2 = np.sqrt(x)
 
