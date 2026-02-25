@@ -1,1 +1,0 @@
-draw a plot with two line that have sin, cos from [0, 2] pi range with different colors
