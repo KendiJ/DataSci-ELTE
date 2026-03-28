@@ -20,4 +20,4 @@ for _key in features_to_check:
         corr_score, p_value = pearsonr(df[_key], y)
         
         # Print the results neatly aligned
-        print(f"Feature: {_key:>4} | Pearson r: {corr_score:.4f} | p-value: {p_value:.4e}")
+        print(f"Feature: {_key:>4} | Pearson r: {corr_score:.4f} | p-value: {p_value:.4e}")     
